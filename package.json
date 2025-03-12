@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "libsodium-wrappers": "^0.7.15",
+    "upper-case": "^3.0.0"
+  }
+}
